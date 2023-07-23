@@ -1,2 +1,2 @@
 # ArcadeMachine
-Arcade Machine using imgui
+Arcade Machine using SFML
